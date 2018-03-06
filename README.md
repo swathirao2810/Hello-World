@@ -1,2 +1,2 @@
 # Hello-World
-Repoaitory of all my learnings.
+Repository of all my learnings.
